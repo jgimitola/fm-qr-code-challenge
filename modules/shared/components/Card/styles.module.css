@@ -1,0 +1,21 @@
+.card {
+  box-sizing: border-box;
+
+  padding: 16px;
+  padding-block-end: 40px;
+
+  border-radius: 20px;
+
+  min-width: 0;
+  width: 20rem;
+  max-width: 100%;
+
+  max-height: 100%;
+
+  overflow: auto;
+  scrollbar-width: none;
+
+  background-color: var(--white);
+
+  filter: drop-shadow(0px 25px 25px hsla(0, 0%, 0%, 0.0477));
+}

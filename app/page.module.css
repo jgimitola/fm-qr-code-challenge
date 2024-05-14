@@ -1,0 +1,17 @@
+.main {
+  display: flex;
+
+  height: 100%;
+
+  padding-inline: 28px;
+}
+
+.cardModifier {
+  margin: auto;
+}
+
+@media only screen and (min-width: 90rem) {
+  .main {
+    padding-inline: 0;
+  }
+}
