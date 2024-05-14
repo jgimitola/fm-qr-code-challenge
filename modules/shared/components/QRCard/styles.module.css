@@ -31,7 +31,7 @@
 .copy {
   font-size: 0.9375rem;
   color: var(--grayishBlue);
-
+  letter-spacing: 0.011875rem;
 
   padding-inline: 16px;
 }
